@@ -1,1 +1,1 @@
-# Janken
+# Janken game
